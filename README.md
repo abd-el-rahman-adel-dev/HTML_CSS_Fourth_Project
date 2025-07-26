@@ -7,7 +7,7 @@ Designed as part of a practice project to master layout techniques, Flexbox, and
 
 ## 🚀 Live Demo
 
-🌐 [View Live](https://abd-el-rahman-adel-dev.github.io/HTML_CSS_Fourth_Project/)
+🌐 [View Live](https://codebyabdo.github.io/HTML_CSS_Fourth_Project/)
 
 ---
 
@@ -91,8 +91,8 @@ This project is licensed under the [MIT License](./LICENSE).
 
 ## 🙋‍♂️ Author
 
-- [Abd El-Rahman Adel](https://github.com/abd-el-rahman-adel-dev)
-- [LinkedIn](https://www.linkedin.com/in/abdelrahman-adel-webdev)
+- [Abd El-Rahman Adel](https://github.com/codebyabdo)
+- [LinkedIn](https://www.linkedin.com/in/codebyabdo)
 
 ---
 
